@@ -92,19 +92,6 @@ system-monitor-tool/
 
 ---
 
-## 🏁 Output Example
-System Monitor - refresh every 2s
-Sort by: CPU (press 's' then [ENTER] to toggle; 'k' to kill; 'q' to quit)
-Memory: 513 MB / 7777 MB (6.6%)
-
-PID     NAME                    CPU%     MEM%
-----------------------------------------------
-538     (sd-pam)                0.00     0.04
-5766    monitor                 0.00     0.05
-...
-
----
-
 ## 🏆 Conclusion
 
 This project implements process management, CPU/memory tracking, and interactive system control using Linux system programming in C++.
