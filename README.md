@@ -76,16 +76,19 @@ Observe the CPU% rise in the monitor, then kill it from within the app.
 
 system-monitor-tool/
 ├── src/
+|
 │   └── main.cpp
+|
 ├── Makefile
+|
 └── README.md
 
 ---
 
 ## 🧾 Author
-Name: Chinmaya Chidamber Sahoo
-Platform: Windows (WSL Ubuntu)
-Language: C++
+- Name: Chinmaya Chidamber Sahoo
+- Platform: Windows (WSL Ubuntu)
+- Language: C++
 
 ---
 
